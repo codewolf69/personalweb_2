@@ -1,0 +1,44 @@
+body {
+  background-color: #D1E8E4;
+  font-size: 155%
+}
+hr {
+  text-align: center;
+  border-color: grey;
+  border-width: 7px;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+ul {
+display: table;
+margin: 0 auto;
+}
+
+img {
+width: 350px;
+height: auto;
+}
+
+h1 {
+  color: #5584AC;
+}
+h3 {
+  color: #0F2C67;
+}
+
+div {
+  background-color: #EAEAEA;
+  width: 30%;
+  border: 5px solid green;
+  border-style: dotted;
+  padding: 0.7%;
+  margin: 60px;
+}
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}

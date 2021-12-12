@@ -1,0 +1,31 @@
+body {
+  background-color: #CDF2CA;
+  font-size: 120%
+}
+hr {
+  text-align: center;
+  border-color: grey;
+  border-width: 7px;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+ul {
+display: table;
+margin: 0 auto;
+}
+ol {
+display: table;
+margin: 0 auto;
+}
+img {
+width: 200px;
+height: auto;
+}
+
+h1 {
+  color: #5584AC;
+}
+h3 {
+  color: #C85C5C;
+}
